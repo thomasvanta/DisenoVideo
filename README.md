@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Diseño Videográfico
 ===============
 
@@ -14,3 +15,9 @@ Ejercicios para casa (no olvideis comentar vuestro código):
 
 
 Enviadlos a contact@thomasvanta.es
+=======
+DisenoVideo
+===========
+
+Material de ayuda para el curso Diseño Videográfico que se imparte en la escuela técnica de artes escénicas de Granada.
+>>>>>>> 7e0232fda5105032e60b50b32d9b895dfe442c19
